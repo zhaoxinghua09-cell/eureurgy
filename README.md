@@ -1,7 +1,7 @@
 ---
 name: eureurgy
 description: "Use when eliciting insights, ideas, or hypotheses through structured provocation (lens, boundary, counter-question, meta-layer). 当需要通过结构化诱发（透镜/边界/反诘/元层）激发洞察、想法或假设时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
