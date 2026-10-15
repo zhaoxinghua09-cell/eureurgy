@@ -11,7 +11,8 @@ family: meta-layer-creation
 related: [lgd-doctrine]
 ---
 
-[![LGD 82/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/eureurgy)
+[![LGD 82/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/eureurgy) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/eureurgy)
+
 
 # Eureurgy · 诱发工程术
 
